@@ -1,0 +1,1 @@
+Local wheater app using js vanilla and open weather api, this app ask for your localization for determine your cordinates, lat and long are shared with the api for determine the climate on your location.
